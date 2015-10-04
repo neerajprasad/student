@@ -1,0 +1,19 @@
+{
+	"events": [{
+		"id": "event_1",
+		"name": "Event 1",
+		"count": "1"
+	},{
+		"id": "event_2",
+		"name": "Event 2",
+		"count": "2"
+	},{
+		"id": "event_3",
+		"name": "Event 3",
+		"count": "3"
+	},{
+		"id": "event_4",
+		"name": "Event 4",
+		"count": "4"
+	}]
+}

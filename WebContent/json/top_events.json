@@ -1,0 +1,19 @@
+{
+	"events": [{
+		"id": "event_1",
+		"name": "Event 1",
+		"time": "27/12/2014 10:00 AM"
+	},{
+		"id": "event_2",
+		"name": "Event 2",
+		"time": "27/12/2014 10:00 AM"
+	},{
+		"id": "event_3",
+		"name": "Event 3",
+		"time": "27/12/2014 10:00 AM"
+	},{
+		"id": "event_4",
+		"name": "Event 4",
+		"time": "27/12/2014 10:00 AM"
+	}]
+}

@@ -1,0 +1,36 @@
+ul, li{
+	margin: 0px;
+	padding: 0px;
+}
+ul{
+	list-style-type: none;
+}
+.wrapper{
+	margin: 0px auto;
+	width: 940px;
+	background: #fff;
+	margin-top: 100px;
+}
+.pageLinks{
+	margin-top: 10px;
+}
+
+/**
+*	Home Page Css Start
+*/
+.homeEventUl, .homeWrapper{
+	width: 300px;
+}
+.homeEventUl li{
+	float: left;
+	margin-top: 15px;
+	width: 150px;
+}
+.homeEventUl li .btn{
+	width: 140px;
+}
+
+
+/**
+*	Home Page Css End
+*/

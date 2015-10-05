@@ -14,19 +14,16 @@ public class StudentDaoImpl implements StudentDao {
     private SessionFactory sessionFactory;
 	
 	
-	@Override
 	public Student save(Student student) {
 		sessionFactory.getCurrentSession().saveOrUpdate(student);
 		return student;
 	}
 
-	@Override
 	public boolean findByLogin(String userName, String password) {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
-	@Override
 	public boolean findByUserName(String userName) {
 		// TODO Auto-generated method stub
 		return false;
